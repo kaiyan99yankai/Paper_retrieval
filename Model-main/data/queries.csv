@@ -1,0 +1,31 @@
+query,area,qid
+I would like to remove the noise from images.,Denoising,0
+How to add captions to the images?,Image Captioning,1
+I want to detect the act of people.,Action Recognition,2
+What is the action of  people in the image.,Action Recognition,3
+Object Tracking with Neural Network,Object Tracking,4
+I would like to track a moving item in a video,Object Tracking,5
+How do self-driving vehicles work?,Autonomous vehicles,6
+Change time and season of an image,Domain adaptation,7
+Can the computer recognize characters in the image?,Optical Character Recognition,8
+I would like to find all the faces in the image.,Face Recognition,9
+Hand-writing recognition,Optical Character Recognition,10
+Image Depth Estimation,Depth Estimation,11
+How to increase the amount of data conveyed by the image,Image augmentation,12
+I would like to reconstruct 3D models from images. ,3D Reconstruction,13
+I would like to reduce the size of images?,Image Compression,14
+Which of those images have cars on it?,Image classification,15
+Image Retrievel,Image Retrieval,16
+I would like to find similar images .,Image Retrieval,17
+Can the computer be an artist like Van Gogh? ,Style Transfer,18
+Optical Flow Estimation with Deep Learning,Optical Flow Estimation,19
+How fast is the object in the video?,Optical Flow Estimation,20
+I would like to generate new images from dataset.,Image generation,21
+Object Detection,Object detection,22
+I would like to improve the resolution of an image.,Super-Resolution,23
+What is the pose of people in the image?,Pose estimation,24
+Can the computer figure out what is on an image?,Object Recognition,25
+Object recognition with attention,Object Recognition,26
+Classify all the stuffs in a single image.,Semantic segmentation,27
+I would like to separate the background.,Semantic segmentation,28
+I want to mark different part of an image,Semantic segmentation,29
